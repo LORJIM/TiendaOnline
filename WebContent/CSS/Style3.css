@@ -1,0 +1,28 @@
+@CHARSET "ISO-8859-1";
+input {
+font-family: Verdana;
+font-size: 10px;
+color: #000000;
+background-color: #FFFF99;
+}
+
+textarea {
+font-family: Verdana;
+font-size: 10px;
+color: #000000;
+background-color: #FFFF99;
+}
+
+
+body {
+margin-left: 0px;
+margin-top: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+background-color: #EEEEEE;
+}
+
+table {
+background-color: #EEEEEE;
+}
+
